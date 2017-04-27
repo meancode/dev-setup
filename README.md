@@ -45,6 +45,10 @@ If you are working with React (or similar), there is one setting you need to pay
 
 See my full `.jsbeautifyrc` [settings file](jsbeautifyrc.js) for other changes I have made. Note that in order for GitHub to display it all pretty like, I had to change the name of this file to `jsbeautifyrc.js` but that will not work in Sublime Text.
 
+# Terminal Settings
+
+# NPM Notes
+
 # Browser Extensions
 * Firebug for [Chrome](http://getfirebug.com/releases/lite/chrome/) and [Firefox](https://addons.mozilla.org/en-US/firefox/addon/firebug/)
 * Web Developer for [Chrome](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm?hl=en-US) and [Firefox](https://addons.mozilla.org/en-US/firefox/addon/web-developer/)
