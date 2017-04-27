@@ -43,7 +43,7 @@ If you are working with React (or similar), there is one setting you need to pay
 "e4x": true, // Pass E4X xml literals through untouched
 ```
 
-See my full `.jsbeautifyrc` [settings file](.jsbeautifyrc) for other changes I have made.
+See my full `.jsbeautifyrc` [settings file](jsbeautifyrc.js) for other changes I have made.
 
 # Browser Extensions
 * Firebug for [Chrome](http://getfirebug.com/releases/lite/chrome/) and [Firefox](https://addons.mozilla.org/en-US/firefox/addon/firebug/)
