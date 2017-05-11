@@ -7,24 +7,31 @@
 
 ### Themes
 
+* [Cobalt2](https://github.com/wesbos/cobalt2)
 * [Predawn](https://github.com/jamiewilson/predawn)
 
-### Other Packages
+### Other Packages 🔥
 
 * [Package Control](https://packagecontrol.io/installation)
 * Alignment
+* AutoFileName
 * Autoprefixer
 * Babel
+* Babel Snippets
 * Bracket Highlighter
 * Colorpicker
 * ChangeQuotes
+* EditorConfig
+* EditorConfig Snippets
 * Emmet
 * Emmet CSS Snippets
+* Emoji
 * EncodingHelper
 * Dockblockr
 * Git
 * Gitgutter
 * Gist
+* ScopeHunter
 * Sidebar Enhancements
 * [HTML-CSS-JS Prettify](https://github.com/victorporof/Sublime-HTMLPrettify)
 * HTML5
@@ -47,7 +54,23 @@ See my full `.jsbeautifyrc` [settings file](jsbeautifyrc.js) for other changes I
 
 # Terminal Settings
 
-# NPM Notes
+# Global NPM Install
+
+Install [Node.js](https://nodejs.org/en/) first.
+
+* create-react-app
+* grunt-cli@
+* grunt-init@
+* node-static
+* serve
+* webpack
+
+To list all global modules:
+
+```
+npm list -g --depth=0
+```
+
 
 # Browser Extensions
 * Firebug for [Chrome](http://getfirebug.com/releases/lite/chrome/) and [Firefox](https://addons.mozilla.org/en-US/firefox/addon/firebug/)
