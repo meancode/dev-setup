@@ -31,6 +31,8 @@
 * Git
 * Gitgutter
 * Gist
+* JavaScript Completions
+* JSHint Gutter
 * ScopeHunter
 * Sidebar Enhancements
 * [HTML-CSS-JS Prettify](https://github.com/victorporof/Sublime-HTMLPrettify)
