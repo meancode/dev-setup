@@ -13,6 +13,7 @@
 ### Other Packages 🔥
 
 * [Package Control](https://packagecontrol.io/installation)
+* PackageResourceViewer
 * Alignment
 * AutoFileName
 * Autoprefixer
@@ -54,7 +55,26 @@ If you are working with React (or similar), there is one setting you need to pay
 
 See my full `.jsbeautifyrc` [settings file](jsbeautifyrc.js) for other changes I have made. Note that in order for GitHub to display it all pretty like, I had to change the name of this file to `jsbeautifyrc.js` but that will not work in Sublime Text.
 
-# Terminal Settings
+# Cobalt2 Changes
+
+Using PackageResourceViewer, edit the `Cobalt2.sublime-theme` file.
+
+    // Sidebar heading
+    {
+        "class": "sidebar_heading",
+        "color": [255, 255, 255],
+        "font.bold": true,
+        "shadow_color": [0, 0, 0],
+        "shadow_offset": [0, -1]
+    },
+    // Sidebar entry
+    {
+        "class": "sidebar_label",
+        "color": [255, 255, 255],
+        "shadow_color": [0, 0, 0],
+        "shadow_offset": [0, -1],
+        "font.size": 12
+    },
 
 # Global NPM Install
 
