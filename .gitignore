@@ -4,6 +4,7 @@
 *.stTheme.cache
 
 # workspace files are user-specific
+*.sublime-project
 *.sublime-workspace
 
 # project files should be checked into the repository, unless a significant
